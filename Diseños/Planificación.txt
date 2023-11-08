@@ -1,0 +1,23 @@
+30 de mar 05:54
+
+Introducción.
+Como proyecto de práctica general de Python, voy a automatizar las acciones relacionadas con hacer el mercado de la semana, entre otros.
+
+Interfaz de usuario.
+Es más cómodo que el proyecto use interfaz gráfica, para la cuál usaré seguramente PyQt5, el cual tengo que repasar.
+
+Librerías.
+Haré uso de librerías como MatPlotLib para graficar histogramas de gastos de dinero por días o semanas.
+También aprenderé y usaré algún cliente para bases de datos, seguramente PostgreSQL, el cual no conozco y debo aprender.
+
+Funciones.
+El programa recibirá, almacenará y dará acceso a una base de datos que consista en una fecha, una hora, un producto y un precio.
+Se agruparan productos con fechas coincidentes a nivel tanto de días como de semanas.
+
+Entradas.
+Se recibirán los datos mencionados a través de un formulario del cual se enviarán y almacenarán en la base de datos.
+
+Salidas.
+El usuario accederá a los datos con vista de árbol, histogramas, tablas y demás métodos de visualización. A través de algunos podrá eliminar registros.
+
+30 de mar 06:01
